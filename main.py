@@ -9,4 +9,5 @@ def main():
 
 if __name__ == "__main__":
     df = main()
+    print("I'm here!")
     print(df)
